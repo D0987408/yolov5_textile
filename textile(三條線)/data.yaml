@@ -1,0 +1,7 @@
+path: textile
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['class1', 'class2', 'n', 'class3']
